@@ -11,6 +11,7 @@ The information we collect:
 - Telephone Number
 - Email Address
 - House Address
+- Sexual Orientation
 - Your picture (optional)
 
 In addition, depending on the setting of your browsers, cookies may be collected in order to make your website/app experience richer and faster. None of these is stored on our sites, these are all operations on your browser’s cache.
